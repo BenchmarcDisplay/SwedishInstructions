@@ -1,0 +1,89 @@
+.instruction-card {
+  width: 200px;
+  min-height: 300px;
+
+  background: white;
+  border: 1px solid #111827;
+  border-radius: 12px;
+  padding: 24px;
+
+  display: flex;
+  flex-direction: column;
+
+  cursor: pointer;
+  text-align: left;
+
+  box-shadow: 0 0 6px rgba(40, 92, 120, 0.45);
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.instruction-card-title-row {
+  display: block;
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+.instruction-card-title {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.15;
+}
+
+.instruction-card-content-row {
+  flex: 1;
+
+  display: grid;
+  grid-template-columns: 1fr 70px;
+  gap: 16px;
+
+  align-items: end;
+}
+
+.instruction-card-image-column {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.instruction-card-image {
+  max-width: 100%;
+  max-height: 250px;
+  object-fit: contain;
+}
+
+.instruction-card-info-column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.instruction-card-icon {
+  width: 38px;
+  height: auto;
+  margin-bottom: 8px;
+}
+
+.instruction-card-meta-label {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.instruction-card-meta-value {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.instruction-grid {
+  padding: 32px;
+
+  display: flex;
+  flex-wrap: wrap;
+
+  gap: 28px;
+
+  align-items: flex-start;
+}

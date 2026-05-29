@@ -1,0 +1,16 @@
+{
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+
+    "editor.mouseWheelZoom": true,
+    "workbench.colorTheme": "Dark+",
+
+    "workbench.colorCustomizations": {
+        "list.activeSelectionBackground": "#0078D7",
+        "list.inactiveSelectionBackground": "#0078D780",
+        "list.hoverBackground": "#0078D7",
+        "list.focusBackground": "#0078D7",
+        "list.activeSelectionForeground": "#ffffff"
+    }
+}

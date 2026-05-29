@@ -1,0 +1,232 @@
+[
+  {
+    "category": "RACKS",
+    "items": [
+      {
+        "id": 1,
+        "title": "4.0 Tobacco Fixture",
+        "type": "video",
+        "image": "/images/rack.jpg",
+        "iconImage": "/images/video.png",
+        "file": "/videos/4ZYN_4.0_2025.mp4",
+        "metaLabel": "Duration",
+        "metaValue": "4:12"
+      },
+      {
+        "id": 2,
+        "title": "4.0 Tobacco Fixture Spec Sheet",
+        "type": "pdf",
+        "image": "/images/rack.jpg",
+        "iconImage": "/images/pdf.png",
+        "file": "/pdfs/RacksSpecSheet.pdf",
+        "metaLabel": "Pages",
+        "metaValue": "4"
+      },
+      {
+        "id": 20,
+        "title": "4.0 Tobacco Fixture Securing Process",
+        "type": "video",
+        "image": "/images/rack.jpg",
+        "iconImage": "/images/video.png",
+        "file": "/pdfs/ShelvesSecure.mp4",
+        "metaLabel": "Pages",
+        "metaValue": "0:35"
+      }
+    ]
+  },
+  {
+    "category": "SPLITTING RAILS",
+    "items": [
+      {
+        "id": 3,
+        "title": "Splitting Rails",
+        "type": "pdf",
+        "image": "/images/SplittingRail.jpg",
+        "iconImage": "/images/pdf.png",
+        "file": "/pdfs/SplittingRailInstructions.pdf",
+        "metaLabel": "Pages",
+        "metaValue": "1"
+      },
+      {
+        "id": 4,
+        "title": "Splitting Rails",
+        "type": "video",
+        "image": "/images/SplittingRail.jpg",
+        "iconImage": "/images/video.png",
+        "file": "/videos/SplittingRail.mp4",
+        "metaLabel": "Duration",
+        "metaValue": "0:30"
+      }
+    ]
+  },
+  {
+    "category": "ZYN-X",
+    "items": [
+      {
+        "id": 5,
+        "title": "ZYN-X Counter and Floor",
+        "type": "pdf",
+        "image": "/images/ZYNX.jpg",
+        "iconImage": "/images/pdf.png",
+        "file": "/pdfs/ZYN-X_Floor_and_CounterDisplayInstructionSheetOctober2025.pdf",
+        "metaLabel": "Pages",
+        "metaValue": "8"
+      },
+      {
+        "id": 6,
+        "title": "ZYN-X Counter and Floor",
+        "type": "video",
+        "image": "/images/ZYNX.jpg",
+        "iconImage": "/images/video.png",
+        "file": "/videos/ZYNX.mp4",
+        "metaLabel": "Duration",
+        "metaValue": "1:52"
+      },
+      {
+        "id": 7,
+        "title": "ZYN-X Spec Sheet",
+        "type": "pdf",
+        "image": "/images/ZYN-X_Spec.jpg",
+        "iconImage": "/images/pdf.png",
+        "file": "/pdfs/ZYN-XSpecSheet.pdf",
+        "metaLabel": "Pages",
+        "metaValue": "2"
+      }
+    ]
+  },
+  {
+    "category": "ZYN ZONE 2.0",
+    "items": [
+      {
+        "id": 8,
+        "title": "ZYN ZONE 2.0",
+        "type": "pdf",
+        "image": "/images/ZYN20.jpg",
+        "iconImage": "/images/pdf.png",
+        "file": "/pdfs/ZYNZONE20BracketInstructionSheetOctober2025.pdf",
+        "metaLabel": "Pages",
+        "metaValue": "9"
+      },
+      {
+        "id": 9,
+        "title": "ZYN ZONE 2.0",
+        "type": "video",
+        "image": "/images/ZYN20.jpg",
+        "iconImage": "/images/video.png",
+        "file": "/videos/ZYNZONE2.mp4",
+        "metaLabel": "Duration",
+        "metaValue": "2:53"
+      },
+      {
+        "id": 10,
+        "title": "ZYN ZONE 2.0 Flex Frame",
+        "type": "video",
+        "image": "/images/ZYN20.jpg",
+        "iconImage": "/images/video.png",
+        "file": "/videos/flexframe.mp4",
+        "metaLabel": "Duration",
+        "metaValue": "2:07"
+      },
+      {
+        "id": 11,
+        "title": "ZYN ZONE 2.0 Hanging LED Sign",
+        "type": "pdf",
+        "image": "/images/ZYN20.jpg",
+        "iconImage": "/images/pdf.png",
+        "file": "/pdfs/HangingLEDInstructions.pdf",
+        "metaLabel": "Pages",
+        "metaValue": "5"
+      },
+      {
+        "id": 12,
+        "title": "ZYN ZONE 2.0 Hanging LED Sign",
+        "type": "video",
+        "image": "/images/ZYN20.jpg",
+        "iconImage": "/images/video.png",
+        "file": "/videos/LEDheader.mp4",
+        "metaLabel": "Duration",
+        "metaValue": "2:28"
+      }
+    ]
+  },
+  {
+    "category": "ZYN ZONE 2.1",
+    "items": [
+      {
+        "id": 13,
+        "title": "ZYN ZONE 2.1",
+        "type": "pdf",
+        "image": "/images/ZYN.jpg",
+        "iconImage": "/images/pdf.png",
+        "file": "/pdfs/ZYNZONE21nstructionSheetOctober2025.pdf",
+        "metaLabel": "Pages",
+        "metaValue": "10"
+      },
+      {
+        "id": 14,
+        "title": "ZYN ZONE 2.1",
+        "type": "video",
+        "image": "/images/ZYN.jpg",
+        "iconImage": "/images/video.png",
+        "file": "/videos/ZYNZONEAssembly.mp4",
+        "metaLabel": "Duration",
+        "metaValue": "2:46"
+      },
+      {
+        "id": 15,
+        "title": "ZYN ZONE 2.1 With Frame Kit",
+        "type": "video",
+        "image": "/images/ZYN.jpg",
+        "iconImage": "/images/video.png",
+        "file": "/videos/ZYNZONEAssemblyWithFrameKit.mp4",
+        "metaLabel": "Duration",
+        "metaValue": "2:56"
+      },
+      {
+        "id": 16,
+        "title": "ZYN ZONE 2.1 Slatwall",
+        "type": "video",
+        "image": "/images/ZYN.jpg",
+        "iconImage": "/images/video.png",
+        "file": "/videos/SlatwallInstructions.mp4",
+        "metaLabel": "Duration",
+        "metaValue": "1:35"
+      },
+      {
+        "id": 17,
+        "title": "ZYN ZONE 2.1 Flip Sign",
+        "type": "video",
+        "image": "/images/ZYN.jpg",
+        "iconImage": "/images/video.png",
+        "file": "/videos/ZYNFlipHeader.mp4",
+        "metaLabel": "Duration",
+        "metaValue": "0:45"
+      }
+    ]
+  },
+  {
+    "category": "COMPETITIVE SHELVING",
+    "items": [
+      {
+        "id": 18,
+        "title": "Competitive Shelving",
+        "type": "pdf",
+        "image": "/images/CompetitiveShelving1.jpg",
+        "iconImage": "/images/pdf.png",
+        "file": "/pdfs/ZYNFlexFrameBracketInstructionSheetOctober2025.pdf",
+        "metaLabel": "Pages",
+        "metaValue": "3"
+      },
+      {
+        "id": 19,
+        "title": "Slatwall Header",
+        "type": "pdf",
+        "image": "/images/CompetitiveShelving2.jpg",
+        "iconImage": "/images/pdf.png",
+        "file": "/pdfs/ZYNZONE21SlatwallHeaderInstructionSheet2025_V1.pdf",
+        "metaLabel": "Pages",
+        "metaValue": "4"
+      }
+    ]
+  }
+]
