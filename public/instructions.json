@@ -8,7 +8,7 @@
         "type": "video",
         "image": "/images/rack.jpg",
         "iconImage": "/images/video.png",
-        "file": "https://swedishinstructions.blob.core.windows.net/swedishinstructions-videos/ZYN_4.0_2025.mp4",
+        "file": "https://www.benchmarc.com/swedishmatch3/videos/ZYN_4.0_2025.mp4",
         "metaLabel": "Duration",
         "metaValue": "4:12"
       },
@@ -28,7 +28,7 @@
         "type": "video",
         "image": "/images/rack.jpg",
         "iconImage": "/images/video.png",
-        "file": "https://swedishinstructions.blob.core.windows.net/swedishinstructions-videos/ShelvesSecure.mp4",
+        "file": "https://www.benchmarc.com/swedishmatch3/videos/ShelvesSecure.mp4",
         "metaLabel": "Duration",
         "metaValue": "0:35"
       }
@@ -53,7 +53,7 @@
         "type": "video",
         "image": "/images/SplittingRail.jpg",
         "iconImage": "/images/video.png",
-        "file": "https://swedishinstructions.blob.core.windows.net/swedishinstructions-videos/SplittingRail.mp4",
+        "file": "https://www.benchmarc.com/swedishmatch3/videos/SplittingRail.mp4",
         "metaLabel": "Duration",
         "metaValue": "0:30"
       }
@@ -78,7 +78,7 @@
         "type": "video",
         "image": "/images/ZYNX.jpg",
         "iconImage": "/images/video.png",
-        "file": "https://swedishinstructions.blob.core.windows.net/swedishinstructions-videos/ZYNX.mp4",
+        "file": "https://www.benchmarc.com/swedishmatch3/videos/ZYNX.mp4",
         "metaLabel": "Duration",
         "metaValue": "1:52"
       },
@@ -113,7 +113,7 @@
         "type": "video",
         "image": "/images/ZYN20.jpg",
         "iconImage": "/images/video.png",
-        "file": "https://swedishinstructions.blob.core.windows.net/swedishinstructions-videos/ZYNZONE2.mp4",
+        "file": "https://www.benchmarc.com/swedishmatch3/videos/ZYNZONE2.mp4",
         "metaLabel": "Duration",
         "metaValue": "2:53"
       },
@@ -123,7 +123,7 @@
         "type": "video",
         "image": "/images/ZYN20.jpg",
         "iconImage": "/images/video.png",
-        "file": "https://swedishinstructions.blob.core.windows.net/swedishinstructions-videos/flexframe.mp4",
+        "file": "https://www.benchmarc.com/swedishmatch3/videos/flexframe.mp4",
         "metaLabel": "Duration",
         "metaValue": "2:07"
       },
@@ -143,7 +143,7 @@
         "type": "video",
         "image": "/images/ZYN20.jpg",
         "iconImage": "/images/video.png",
-        "file": "https://swedishinstructions.blob.core.windows.net/swedishinstructions-videos/LEDHeader.mp4",
+        "file": "https://www.benchmarc.com/swedishmatch3/videos/LEDHeader.mp4",
         "metaLabel": "Duration",
         "metaValue": "2:28"
       }
@@ -168,7 +168,7 @@
         "type": "video",
         "image": "/images/ZYN.jpg",
         "iconImage": "/images/video.png",
-        "file": "https://swedishinstructions.blob.core.windows.net/swedishinstructions-videos/ZYNZONEAssembly.mp4",
+        "file": "https://www.benchmarc.com/swedishmatch3/videos/ZYNZONEAssembly.mp4",
         "metaLabel": "Duration",
         "metaValue": "2:46"
       },
@@ -178,7 +178,7 @@
         "type": "video",
         "image": "/images/ZYN.jpg",
         "iconImage": "/images/video.png",
-        "file": "https://swedishinstructions.blob.core.windows.net/swedishinstructions-videos/ZYNZONEAssemblyWithFrameKit.mp4",
+        "file": "https://www.benchmarc.com/swedishmatch3/videos/ZYNZONEAssemblyWithFrameKit.mp4",
         "metaLabel": "Duration",
         "metaValue": "2:56"
       },
@@ -188,7 +188,7 @@
         "type": "video",
         "image": "/images/ZYN.jpg",
         "iconImage": "/images/video.png",
-        "file": "https://swedishinstructions.blob.core.windows.net/swedishinstructions-videos/SlatwallInstructions.mp4",
+        "file": "https://www.benchmarc.com/swedishmatch3/videos/SlatwallInstructions.mp4",
         "metaLabel": "Duration",
         "metaValue": "1:35"
       },
@@ -198,7 +198,7 @@
         "type": "video",
         "image": "/images/ZYN.jpg",
         "iconImage": "/images/video.png",
-        "file": "https://swedishinstructions.blob.core.windows.net/swedishinstructions-videos/ZYNFlipHeaderInstallation.mp4",
+        "file": "https://www.benchmarc.com/swedishmatch3/videos/ZYN Flip Header Installation.mp4",
         "metaLabel": "Duration",
         "metaValue": "0:45"
       }
