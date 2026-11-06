@@ -129,9 +129,9 @@
       },
       {
         "id": 11,
-        "title": "ZYN ZONE 2.0 Hanging LED Sign",
+        "title": "ZYN Hanging LED Sign",
         "type": "pdf",
-        "image": "/images/ZYN20.jpg",
+        "image": "/images/ZYNHangingLEDSign.jpg",
         "iconImage": "/images/pdf.png",
         "file": "/pdfs/HangingLEDInstructions.pdf",
         "metaLabel": "Pages",
@@ -139,9 +139,9 @@
       },
       {
         "id": 12,
-        "title": "ZYN ZONE 2.0 Hanging LED Sign",
+        "title": "ZYN Hanging LED Sign",
         "type": "video",
-        "image": "/images/ZYN20.jpg",
+        "image": "/images/ZYNHangingLEDSign.jpg",
         "iconImage": "/images/video.png",
         "file": "https://www.benchmarc.com/swedishmatch3/videos/LEDHeader.mp4",
         "metaLabel": "Duration",
