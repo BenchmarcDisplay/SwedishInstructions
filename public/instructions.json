@@ -28,7 +28,7 @@
         "type": "video",
         "image": "/images/rack.jpg",
         "iconImage": "/images/video.png",
-        "file": "https://www.benchmarc.com/swedishmatch3/videos/ShelvesSecure.mp4",
+        "file": "https://www.benchmarc.com/swedishmatch3/ShelvesSecure.mp4",
         "metaLabel": "Duration",
         "metaValue": "0:35"
       }
@@ -113,7 +113,7 @@
         "type": "video",
         "image": "/images/ZYN20.jpg",
         "iconImage": "/images/video.png",
-        "file": "https://www.benchmarc.com/swedishmatch3/videos/ZYNZONE2.mp4",
+        "file": "https://www.benchmarc.com/swedishmatch3/ZYNZONE2.mp4",
         "metaLabel": "Duration",
         "metaValue": "2:53"
       },
@@ -123,7 +123,7 @@
         "type": "video",
         "image": "/images/ZYN20.jpg",
         "iconImage": "/images/video.png",
-        "file": "https://www.benchmarc.com/swedishmatch3/videos/flexframe.mp4",
+        "file": "https://www.benchmarc.com/swedishmatch3/flexframe.mp4",
         "metaLabel": "Duration",
         "metaValue": "2:07"
       },
