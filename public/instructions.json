@@ -203,30 +203,5 @@
         "metaValue": "0:45"
       }
     ]
-  },
-  {
-    "category": "COMPETITIVE SHELVING",
-    "items": [
-      {
-        "id": 18,
-        "title": "Competitive Shelving",
-        "type": "pdf",
-        "image": "/images/CompetitiveShelving1.jpg",
-        "iconImage": "/images/pdf.png",
-        "file": "/pdfs/ZYNFlexFrameBracketInstructionSheetOctober2025.pdf",
-        "metaLabel": "Pages",
-        "metaValue": "3"
-      },
-      {
-        "id": 19,
-        "title": "Slatwall Header",
-        "type": "pdf",
-        "image": "/images/CompetitiveShelving2.jpg",
-        "iconImage": "/images/pdf.png",
-        "file": "/pdfs/ZYNZONE21SlatwallHeaderInstructionSheet2025_V1.pdf",
-        "metaLabel": "Pages",
-        "metaValue": "4"
-      }
-    ]
   }
 ]

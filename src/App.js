@@ -32,7 +32,6 @@ function App() {
     "ZYN-X",
     "ZYN ZONE 2.0",
     "ZYN ZONE 2.1",
-    "COMPETITIVE SHELVING",
   ];
 
   const instructions = instructionsData.flatMap((categoryGroup) =>
